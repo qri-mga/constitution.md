@@ -1,6 +1,6 @@
 # Constitution of QRI
 
-*Middle Georgia State University — School of Computing*
+*Middle Georgia State University — School of Computing based, but encompassing all required fields of study.*
 
 This repository contains the constitution for Qualia / QRI / Q\*.
 
