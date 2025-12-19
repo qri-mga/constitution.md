@@ -1,4 +1,4 @@
-Constitution of Quota**Constitution of Quota**
+Constitution of QRI**Constitution of QRI**
 
 
 
@@ -14,7 +14,7 @@ Section 1. Name**Section 1\. Name**
 
 
 
-The name of this student organization shall be Quota, QRI, or Q*.The name of this student organization shall be **Quota**, **Quota\***, or **Q\***.
+The name of this student organization shall be Qualia, QRI, or Q*.The name of this student organization shall be **Qualia**, **QRI\***, or **Q\***.
 
 
 
