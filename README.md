@@ -285,4 +285,4 @@ Ratified this  8th  day of _November_, 2025_ by the founding members of Quota (Q
 
 In the event of dissolution, all remaining organizational funds shall be transferred to the **Middle Georgia State University Foundation** under a designation supporting student research initiatives.
 
-*Ratified this  **8th**  day of  **November**, 20**25**  by the founding members of Quota (Q\*) at Middle Georgia State University.*
+*Ratified this  **8th**  day of  **November**, 20**25**  by the founder of QRI, Preston Timothy Mills, at Middle Georgia State University.*
