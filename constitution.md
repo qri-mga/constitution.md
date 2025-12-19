@@ -2,6 +2,8 @@
 
 *Middle Georgia State University — School of Computing based, but encompassing all required fields of study.*
 
+This repository contains the constitution for Qualia / QRI / Q\*.
+
 ## Table of contents
 
 - [Article I — Name and purpose](#article-i--name-and-purpose)
@@ -172,4 +174,4 @@ Any adopted amendment must be submitted to the **Office of Student Engagement** 
 
 In the event of dissolution, all remaining organizational funds shall be transferred to the **Middle Georgia State University Foundation** under a designation supporting student research initiatives.
 
-*Ratified this **8th** day of **November**, **2025** by the founder of QRI, Preston Timothy Mills, at Middle Georgia State University.*
+*Ratified this **8th** day of **November**, **2025** by the founding members of Qualia (Q\*) at Middle Georgia State University.*
